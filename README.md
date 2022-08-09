@@ -1,5 +1,5 @@
 # MQE---Machine-Learning-Applications-for-Predicting-Recessions
-# By: Andrew Salguero, Anapat Krisdaphong, Tanaporn Sriklay 
+## By: Andrew Salguero, Anapat Krisdaphong, Tanaporn Sriklay 
 
 Modern-day business cycles consist of expansionary and recessionary periods in the
 economy. For economists and policymakers, it would be beneficial for the economy to generate
